@@ -1,0 +1,17 @@
+.btn {
+    
+   
+   border: 10;
+    padding: 23px, 16px;
+    font-size: 1rem;
+    background: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s all ease-out;
+    
+}
+
+/* .btn:hover {
+    color: white;
+    background: dodgerblue;
+} */

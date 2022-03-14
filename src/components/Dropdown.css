@@ -1,0 +1,24 @@
+.usd-submenu {
+    width: 4rem;
+    position: absolute;
+    top: 90px;
+    list-style: none;
+    text-align: start;
+}
+
+.usd-submenu li{
+    background-color: azure;
+    cursor: pointer;
+}
+.usd-submenu.clicked{
+    display: none;
+}
+
+.submenu-item{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
